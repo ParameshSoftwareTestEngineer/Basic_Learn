@@ -1,0 +1,13 @@
+Basic GitHub 
+
+1.Login to application.
+
+2.Click on the Enquiries module.
+
+3.Click on the invoice sub module.
+
+4.Click on generate invoice.
+
+5.Enter more than 15% in discount text box.
+
+6.Observed the result displayed.
