@@ -6,7 +6,7 @@ Basic GitHub
 
 3.Click on the invoice sub module.
 
-4.Click on generate invoice.
+4.Goto on generate invoice page.
 
 5.Enter more than 15% in discount text box.
 
