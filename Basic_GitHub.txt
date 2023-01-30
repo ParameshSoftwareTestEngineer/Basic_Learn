@@ -11,3 +11,5 @@ Basic GitHub
 5.Enter more than 15% in discount text box.
 
 6.Observed the result displayed.
+
+7. Refer the Screenshot.
